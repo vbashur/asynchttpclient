@@ -1,0 +1,10 @@
+input.url=https://www.yandex.ru/
+input.threads.num=0
+input.items.num=100
+input.file=/home/vic/VIEW_STORE/tmp/input.txt
+output.file=/home/vic/VIEW_STORE/tmp/output.txt
+output.line.empty.placeholder=
+input.request.header.1=
+input.request.header.2=
+input.request.header.3=
+input.request.header.4=
